@@ -56,9 +56,7 @@ The **Online Auction System** is a **secure, transparent, and user-friendly** we
 - **Axios / Fetch API** – For handling API requests between frontend and backend.  
 
 ### **Deployment & Hosting**
-- **Frontend:** **Vercel** / Netlify  
-- **Backend:** **Render** / Railway  
-- **Database:** MongoDB Atlas  
+- **Database:** MongoDB Compass  
 
 ### **Version Control**
 - **Git & GitHub** – For source code management and collaboration.  
