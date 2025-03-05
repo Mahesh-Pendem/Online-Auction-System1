@@ -40,7 +40,7 @@ The **Online Auction System** is a **secure, transparent, and user-friendly** we
 
 ### **Frontend (Client-Side)**
 - **React.js** – For building a responsive user interface.  
-- **Tailwind CSS / Bootstrap** – For modern and mobile-friendly UI design.  
+- **CSS** – For modern and mobile-friendly UI design.  
 
 ### **Backend (Server-Side)**
 - **Node.js & Express.js** – For handling API requests and server logic.  
